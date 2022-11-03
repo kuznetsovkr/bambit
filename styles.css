@@ -654,7 +654,7 @@ main {
 @media (max-width: 480px) and (max-width: 450px) {
   .accordion {
     width: 90vw;
-    top: 8vw;
+    top: 5vw;
   }
   .accordion .container.active .content {
     height: 35vw;
